@@ -17,17 +17,15 @@ body{
     padding-bottom: 10rem;
     position: relative;
     min-height: 100vh;
-    margin: 0;
     font-family: 'Nunito', sans-serif;
-    background-color: $color-backgroundprincipal;
-    color: #212121;  
-    overflow-x: hidden
+    background-image: url(../imagenes/F7F5F2.png);
+    background-repeat: repeat;
+    overflow-x: hidden;
+    color: #212121; 
   }
 
 
 @import "partials/header";
-
-@import "pages/inicio";
 
 @import "pages/acerca";
 

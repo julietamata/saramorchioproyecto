@@ -4,11 +4,12 @@
 @import "../utilities/mixin";
 
 .bodyExclusivos{
-
+    
 @extend %overflow;
 
     .mainExclusivos{
     margin: $margin-general;
+    
 
     //* estilos del main exclusivos version mobile*//
 
